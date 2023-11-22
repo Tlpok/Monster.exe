@@ -271,7 +271,7 @@ MONSTERS = {
         },
         "texts": {
             "do_attack": ["\"Give me your soul.\"", "\"Your soul will be mine.\""],
-            "got_attack": ["\"I will always come back.\"", "\"You can't stop me forever\""],
+            "got_attack": ["\"I will always come back.\"", "\"You can't stop me forever.\""],
             "do_life_steal": ["\"Mmm, delicious.\"", "\"This is just the beginning.\""]
         },
         "image": {
@@ -287,9 +287,9 @@ MONSTERS = {
             "heal": 40
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_heal": ["\"_\"", "\"_\""]
+            "do_attack": ["\"Hmmm\"", "\"Humm\""],
+            "got_attack": ["\"ooo\"", "\"ooo\""],
+            "do_heal": ["\"...\"", "\"...\""]
         },
         "image": {
             "alive": "assets/monsters/void_human.png",
@@ -304,9 +304,9 @@ MONSTERS = {
             "heal": 25
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_heal": ["\"_\"", "\"_\""]
+            "do_attack": ["\"Brains\"", "\"Meat\""],
+            "got_attack": ["\"Aughh\"", "\"Arghh\""],
+            "do_heal": ["\"AUGHHH!\"", "\"ARGHHH!\""]
         },
         "image": {
             "alive": "assets/monsters/zombie.png",
@@ -322,8 +322,8 @@ MONSTERS = {
         },
         "texts": {
             "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_heal": ["\"_\"", "\"_\""]
+            "got_attack": ["\"Aughh\"", "\"Arghh\""],
+            "do_heal": ["\"It not over yet."", "\"Fight me.\""]
         },
         "image": {
             "alive": "assets/monsters/lich_warrior.png",
@@ -340,9 +340,9 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
+            "do_attack": ["\"You will feel my pain.\"", "\"_\""],
             "got_attack": ["\"_\"", "\"_\""],
-            "do_poison": ["\"_\"", "\"_\""],
+            "do_poison": ["\"You will feel my pain.\"", "\"_\""],
             "do_stun": ["\"_\"", "\"_\""],
             "do_life_steal": ["\"_\"", "\"_\""]
         },
@@ -359,7 +359,7 @@ MONSTERS = {
             "poison": 25
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
+            "do_attack": ["\"Hiss\"", "\"_\""],
             "got_attack": ["\"_\"", "\"_\""],
             "do_poison": ["\"_\"", "\"_\""]
         },
@@ -377,8 +377,8 @@ MONSTERS = {
         },
         "texts": {
             "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_life_steal": ["\"_\"", "\"_\""]
+            "got_attack": ["\"I will devour you.\"", "\"_\""],
+            "do_life_steal": ["\"Need More..MORE\"", "\"I will devour you \""]
         },
         "image": {
             "alive": "assets/monsters/humungousaur.png",  # who tf name this.
@@ -393,9 +393,9 @@ MONSTERS = {
             "damage_buff": 25
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_damage_buff": ["\"_\"", "\"_\""]
+            "do_attack": ["\"I will punish you to a painful death.\"", "\"_\""],
+            "got_attack": ["\"You will have to pay for this.\"", "\"Nice try for a human.\""],
+            "do_damage_buff": ["\"You will die by my hand.\"", "\"I'm going to get serious now.\""]
         },
         "image": {
             "alive": "assets/monsters/guardian.png",
