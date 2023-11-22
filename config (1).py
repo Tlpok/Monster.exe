@@ -253,9 +253,9 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_life_steal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_life_steal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/void_eye_ball.png",
@@ -270,9 +270,9 @@ MONSTERS = {
             "life_steal": 40
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_life_steal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_life_steal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/reaper.png",
@@ -287,9 +287,9 @@ MONSTERS = {
             "heal": 40
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_heal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_heal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/void_human.png",
@@ -304,9 +304,9 @@ MONSTERS = {
             "heal": 25
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_heal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_heal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/zombie.png",
@@ -321,9 +321,9 @@ MONSTERS = {
             "heal": 25
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_heal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_heal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/lich_warrior.png",
@@ -340,11 +340,11 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_poison": [],
-            "do_stun": [],
-            "do_life_steal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_poison": ["\"_\"", "\"_\""],
+            "do_stun": ["\"_\"", "\"_\""],
+            "do_life_steal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/wizard.png",
@@ -359,9 +359,9 @@ MONSTERS = {
             "poison": 25
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_poison": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_poison": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/fire_worm.png",
@@ -376,9 +376,9 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_life_steal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_life_steal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/humungousaur.png",  # who tf name this.
@@ -393,9 +393,9 @@ MONSTERS = {
             "damage_buff": 25
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_damage_buff": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_damage_buff": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/guardian.png",
@@ -411,10 +411,10 @@ MONSTERS = {
             "heal": 15
         },
         "texts": {
-            "do_attack": [],
-            "got_attack": [],
-            "do_poison": [],
-            "do_heal": []
+            "do_attack": ["\"_\"", "\"_\""],
+            "got_attack": ["\"_\"", "\"_\""],
+            "do_poison": ["\"_\"", "\"_\""],
+            "do_heal": ["\"_\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/fire_demon.png",
