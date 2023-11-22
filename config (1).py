@@ -305,7 +305,7 @@ MONSTERS = {
         },
         "texts": {
             "do_attack": ["\"Brains\"", "\"Meat\""],
-            "got_attack": ["\"Aughh\"", "\"Arghh\""],
+            "got_attack": ["\"Aughh\"", "\"Grrr\""],
             "do_heal": ["\"AUGHHH!\"", "\"ARGHHH!\""]
         },
         "image": {
@@ -321,8 +321,8 @@ MONSTERS = {
             "heal": 25
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"Aughh\"", "\"Arghh\""],
+            "do_attack": ["\"\"", "\"_\""],
+            "got_attack": ["\"Aughh\"", "\"Is that all you got.\""],
             "do_heal": ["\"It not over yet."", "\"Fight me.\""]
         },
         "image": {
@@ -340,11 +340,11 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": ["\"You will feel my pain.\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_poison": ["\"You will feel my pain.\"", "\"_\""],
-            "do_stun": ["\"_\"", "\"_\""],
-            "do_life_steal": ["\"_\"", "\"_\""]
+            "do_attack": ["\"You will feel my pain.\"", "\"I will give you a brutal death.\""],
+            "got_attack": ["\"You will suffer for what you did.\"", "\"I definitely won't forgive you.\""],
+            "do_poison": ["\"You will feel my pain.\"", "\"You will continue to suffer.\""],
+            "do_stun": ["\"You will be stuck here forever.\"", "\"Mwahahahahahahahaha!\""],
+            "do_life_steal": ["\"I will suck your blood dry.\"", "\"Thank for a meal.\""]
         },
         "image": {
             "alive": "assets/monsters/wizard.png",
@@ -359,9 +359,9 @@ MONSTERS = {
             "poison": 25
         },
         "texts": {
-            "do_attack": ["\"Hiss\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_poison": ["\"_\"", "\"_\""]
+            "do_attack": ["\"Hiss\"", "\"Chomp\""],
+            "got_attack": ["\"Arg\"", "\"Grrr\""],
+            "do_poison": ["\"Ptooey\"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/fire_worm.png",
@@ -376,7 +376,7 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
+            "do_attack": ["\"You will be torn to pieces.\"", "\"_\""],
             "got_attack": ["\"I will devour you.\"", "\"_\""],
             "do_life_steal": ["\"Need More..MORE\"", "\"I will devour you \""]
         },
@@ -393,7 +393,7 @@ MONSTERS = {
             "damage_buff": 25
         },
         "texts": {
-            "do_attack": ["\"I will punish you to a painful death.\"", "\"_\""],
+            "do_attack": ["\"I will punish you to a painful death.\"", "\"You will feel my fury through my spear.\""],
             "got_attack": ["\"You will have to pay for this.\"", "\"Nice try for a human.\""],
             "do_damage_buff": ["\"You will die by my hand.\"", "\"I'm going to get serious now.\""]
         },
@@ -414,7 +414,7 @@ MONSTERS = {
             "do_attack": ["\"_\"", "\"_\""],
             "got_attack": ["\"_\"", "\"_\""],
             "do_poison": ["\"_\"", "\"_\""],
-            "do_heal": ["\"_\"", "\"_\""]
+            "do_heal": ["\"Your \"", "\"_\""]
         },
         "image": {
             "alive": "assets/monsters/fire_demon.png",
