@@ -253,8 +253,8 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": ["\" \"", "\"Ki kli\""],
-            "got_attack": ["\"Screech\"", "\"\""],
+            "do_attack": ["\"Chomp\"", "\"Ki kli\""],
+            "got_attack": ["\"Screech\"", "\"Peep\""],
             "do_life_steal": ["\"Die!\"", "\ฺBlood!\""]
         },
         "image": {
@@ -287,9 +287,9 @@ MONSTERS = {
             "heal": 40
         },
         "texts": {
-            "do_attack": ["\"Hmmm\"", "\"Humm\""],
-            "got_attack": ["\"ooo\"", "\"ooo\""],
-            "do_heal": ["\"...\"", "\"...\""]
+            "do_attack": ["\"Stop resisting.\"", "\"Stay down.\""],
+            "got_attack": ["\"You won't pass me.\"", "\"Try your best.\""],
+            "do_heal": ["\"Mmm\"", "\"Mmm\""]
         },
         "image": {
             "alive": "assets/monsters/void_human.png",
@@ -304,9 +304,9 @@ MONSTERS = {
             "heal": 25
         },
         "texts": {
-            "do_attack": ["\"Brains\"", "\"Meat\""],
+            "do_attack": ["\"AUGHHH\"", "\"ARGHHH\""],
             "got_attack": ["\"Aughh\"", "\"Grrr\""],
-            "do_heal": ["\"AUGHHH!\"", "\"ARGHHH!\""]
+            "do_heal": ["\"Brains!\"", "\"Meat!\""]
         },
         "image": {
             "alive": "assets/monsters/zombie.png",
@@ -321,7 +321,7 @@ MONSTERS = {
             "heal": 25
         },
         "texts": {
-            "do_attack": ["\"\"", "\"_\""],
+            "do_attack": ["\"Taste my sword.\"", "\"I'm going to kill you!\""],
             "got_attack": ["\"Aughh\"", "\"Is that all you got.\""],
             "do_heal": ["\"It not over yet."", "\"Fight me.\""]
         },
@@ -361,7 +361,7 @@ MONSTERS = {
         "texts": {
             "do_attack": ["\"Hiss\"", "\"Chomp\""],
             "got_attack": ["\"Arg\"", "\"Grrr\""],
-            "do_poison": ["\"Ptooey\"", "\"_\""]
+            "do_poison": ["\"Ptooey\"", "\"BRUN!\""]
         },
         "image": {
             "alive": "assets/monsters/fire_worm.png",
@@ -376,9 +376,9 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": ["\"You will be torn to pieces.\"", "\"_\""],
-            "got_attack": ["\"I will devour you.\"", "\"_\""],
-            "do_life_steal": ["\"Need More..MORE\"", "\"I will devour you \""]
+            "do_attack": ["\"I'm going to tear you to pieces.\"", "\"You will suffer.\""],
+            "got_attack": ["\"You won't be able to escape from me.\"", "\"I will kill you!.\""],
+            "do_life_steal": ["\"Need More..MORE\"", "\"I will eat you piece by piece.\""]
         },
         "image": {
             "alive": "assets/monsters/humungousaur.png",  # who tf name this.
@@ -411,10 +411,10 @@ MONSTERS = {
             "heal": 15
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_poison": ["\"_\"", "\"_\""],
-            "do_heal": ["\"Your \"", "\"_\""]
+            "do_attack": ["\"You will feel my fury.\"", "\"I will put you down\""],
+            "got_attack": ["\"Have you attacked yet? I don't feel pain.\"", "\"You are a pathetic human being.\""],
+            "do_poison": ["\"You're going to be burn to death.\"", "\"Brun human BRUN!\""],
+            "do_heal": ["\"Your attacks were pathetic.\"", "\"Your attacks were useless against me.\""]
         },
         "image": {
             "alive": "assets/monsters/fire_demon.png",
