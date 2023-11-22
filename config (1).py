@@ -253,9 +253,9 @@ MONSTERS = {
             "life_steal": 20
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_life_steal": ["\"_\"", "\"_\""]
+            "do_attack": ["\" \"", "\"Ki kli\""],
+            "got_attack": ["\"Screech\"", "\"\""],
+            "do_life_steal": ["\"Die!\"", "\ฺBlood!\""]
         },
         "image": {
             "alive": "assets/monsters/void_eye_ball.png",
@@ -270,9 +270,9 @@ MONSTERS = {
             "life_steal": 40
         },
         "texts": {
-            "do_attack": ["\"_\"", "\"_\""],
-            "got_attack": ["\"_\"", "\"_\""],
-            "do_life_steal": ["\"_\"", "\"_\""]
+            "do_attack": ["\"Give me your soul.\"", "\"Your soul will be mine.\""],
+            "got_attack": ["\"I will always come back.\"", "\"You can't stop me forever\""],
+            "do_life_steal": ["\"Mmm, delicious.\"", "\"This is just the beginning.\""]
         },
         "image": {
             "alive": "assets/monsters/reaper.png",
